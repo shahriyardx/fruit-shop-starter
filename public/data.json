@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "description": "A sweet, crunchy fruit with a red or green skin.",
+        "price": 1.00,
+        "available_vitamins": ["Vitamin C", "Vitamin A"],
+        "image": "/images/fruits/apple.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Banana",
+        "description": "A long, curved fruit with a yellow skin and creamy flesh.",
+        "price": 0.50,
+        "available_vitamins": ["Vitamin B6", "Vitamin C", "Potassium"],
+        "image": "/images/fruits/banana.webp"
+    },
+    {
+        "id": 3,
+        "name": "Orange",
+        "description": "A citrus fruit with a bright orange skin and juicy segments.",
+        "price": 0.75,
+        "available_vitamins": ["Vitamin C"],
+        "image": "/images/fruits/orange.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Grapes",
+        "description": "Small, round fruits usually found in clusters. They can be green, red, or purple.",
+        "price": 2.50,
+        "available_vitamins": ["Vitamin C", "Vitamin K"],
+        "image": "/images/fruits/grapes.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Strawberry",
+        "description": "A small, juicy, red fruit with tiny seeds on its surface.",
+        "price": 3.00,
+        "available_vitamins": ["Vitamin C", "Vitamin K", "Folate"],
+        "image": "/images/fruits/strawberry.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Pineapple",
+        "description": "A tropical fruit with a prickly exterior and sweet, juicy interior.",
+        "price": 2.25,
+        "available_vitamins": ["Vitamin C", "Manganese"],
+        "image": "/images/fruits/pineapple.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Watermelon",
+        "description": "A large, juicy fruit with a green rind and red or pink flesh.",
+        "price": 1.50,
+        "available_vitamins": ["Vitamin C", "Vitamin A"],
+        "image": "/images/fruits/watermelon.webp"
+    },
+    {
+        "id": 8,
+        "name": "Mango",
+        "description": "A tropical fruit with a sweet, juicy flesh and a thin skin.",
+        "price": 2.75,
+        "available_vitamins": ["Vitamin C", "Vitamin A"],
+        "image": "/images/fruits/mango.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Blueberry",
+        "description": "Small, round berries that are dark blue in color and sweet in flavor.",
+        "price": 4.00,
+        "available_vitamins": ["Vitamin C", "Vitamin K"],
+        "image": "/images/fruits/blueberry.jpg"
+    }
+]

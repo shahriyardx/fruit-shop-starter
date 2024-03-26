@@ -1,8 +1,13 @@
 import React from 'react'
+import Header from './components/Header'
+import Banner from './components/Banner'
 
 const App = () => {
   return (
-    <div>Fruit Shop</div>
+    <div className='pb-20'>
+      <Header />
+      <Banner />
+    </div>
   )
 }
 
